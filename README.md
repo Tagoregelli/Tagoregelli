@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tagore</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">DevOps & AWS Cloud enthusiast with strong expertise.Excited to contribute innovative solutions to AWS environments.</h3>
 
 - 🔭 I’m currently working on **DevOps & AWS cloud projects**
 
