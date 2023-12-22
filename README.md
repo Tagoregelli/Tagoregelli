@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tagore</h1>
 <h3 align="center">DevOps & AWS Cloud enthusiast with strong expertise.Excited to contribute innovative solutions to AWS environments.</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tagoregelli" alt="tagoregelli" /></a> </p>
+
 - 🔭 I’m currently working on **DevOps & AWS cloud projects**
 
 - 🌱 I’m currently learning **Kubernetes, GitLab, CircleCI**
@@ -21,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tagoregelli&show_icons=true&locale=en&layout=compact" alt="tagoregelli" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tagoregelli&show_icons=true&locale=en" alt="tagoregelli" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tagoregelli&" alt="tagoregelli" /></p>
