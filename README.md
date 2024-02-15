@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **DevOps & AWS cloud projects**
 
-- 🌱 I’m currently learning **Kubernetes, GitLab, CircleCI**
+- 🌱 I’m currently learning **GCP,Azure,Kubernetes,Helm**
 
-- 👯 I’m looking to collaborate on **CICD projects**
+- 👯 I’m looking to collaborate on **CICD,Cloud,DevOps projects**
 
 - 📫 How to reach me **tagoresaiharsha911@gmail.com**
 
