@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tagore</h1>
-<h3 align="center">DevOps & AWS Cloud enthusiast with strong expertise.Excited to contribute innovative solutions to AWS environments.</h3>
+<h3 align="center">Currently working as a DevOps & AWS Cloud engineer.Excited to contribute innovative solutions to AWS environments.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tagoregelli" alt="tagoregelli" /></a> </p>
 
